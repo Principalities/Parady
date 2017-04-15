@@ -1,0 +1,7 @@
+import pygame
+import sys
+import timer
+import traceback
+from pygame.locals import *
+
+pygame.init()
